@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# Live Site Link 🔗
+[Visit Here](https://sticky-card-effect-by-arghyaghosh.netlify.app/).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
